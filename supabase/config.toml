@@ -1,0 +1,4 @@
+project_id = "mtbgpotxeofooxufjgwb"
+
+[functions.legal-decision]
+verify_jwt = false
